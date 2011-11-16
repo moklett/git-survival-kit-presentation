@@ -1,0 +1,7 @@
+{
+  "name": "Git Survival Kit",
+  "sections": [
+    { "section": "01_intro" },
+    { "section": "02_git_basics" }
+  ]
+}

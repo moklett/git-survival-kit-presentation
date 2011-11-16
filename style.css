@@ -1,0 +1,8 @@
+/*@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700&v2);
+*/
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700&v2);
+
+body        { font-family: "Droid Serif", serif; color: #144460; }
+.slide      { background-color: #d5fbf7; }
+h1          { font-weight: bold; }
+a           { color: #144460; }
